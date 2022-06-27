@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Raj Yadav</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-8" alt="Rohit-8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-8&theme=onedark" alt="Rohit-8" /></a> </p>
 
 - 🔭 I’m currently working on **enhancing my problem solving skills**
 
