@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-8&theme=onedark" alt="Rohit-8" /></a> </p>
 
-- 🔭 I’m currently working on **enhancing my problem solving skills**
+- 🔭 I’m currently working on **enhancing my problem solving skills☺️**
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, React, NodeJS**
+- 🌱 I’m currently learning **ASP.NET, Spring Boot, NodeJS, CI/CD, React, Angular, SQL, Mongo**
 
-- 💬 Ask me about **DSA and MERN Stack**
+- 💬 Ask me about **DSA and DEV Stack🤣**
 
 - 📫 How to reach me **rohitrydv@gmail.com**
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-8&show_icons=true&locale=en&layout=compact" alt="Rohit-8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-8&" alt="Rohit-8" /></p>
+
