@@ -12,6 +12,7 @@ Currently working on:
 - Intelligent document analysis platforms
 - High-performance backend architectures
 
-📫 Reach me: rohitrydv@gmail.com
-🌐 Portfolio: [https://rohit-portfolio-z2ls.onrender.com/]
-💼 LinkedIn: [https://www.linkedin.com/in/rohit-raj-yadav-a452b51b6/]
+📫 Reach me: 
+<img src="https://img.shields.io/badge/Email-rohitrydv@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Portfolio-Visit https://rohit-portfolio-z2ls.onrender.com/-0A66C2?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rohit-raj-yadav-a452b51b6/?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
