@@ -1,18 +1,20 @@
-# Hi, I'm Rohit Raj Yadav 👋
+## Hi, I'm Rohit Raj Yadav 👋
+### Backend & AI Engineer | Distributed Systems | RAG Infrastructure
 
-Backend & AI Engineer building scalable distributed systems, RAG pipelines, and AI-powered applications.
+I build scalable backend systems and AI-powered products focused on reliability, low latency, and production readiness.
 
-- 2.5+ years experience in .NET, Node.js, Spring Boot, PostgreSQL, Redis
-- Building production-grade RAG systems and async architectures
+- 2.5+ years of experience in .NET, Node.js, Spring Boot, PostgreSQL, and Redis
+- Building production-grade RAG systems and asynchronous architectures
 - Focused on low-latency backend systems and AI infrastructure
 - Experienced with OpenAI APIs, RabbitMQ, vector databases, and microservices
 
-Currently working on:
+### Currently Working On
 - Multi-agent AI research systems
 - Intelligent document analysis platforms
 - High-performance backend architectures
 
-📫 Reach me: 
-<img src="https://img.shields.io/badge/Email-rohitrydv@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
-<img src="https://img.shields.io/badge/Portfolio-Visit https://rohit-portfolio-z2ls.onrender.com/-0A66C2?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio">
-<img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rohit-raj-yadav-a452b51b6/?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Raj%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-raj-yadav-a452b51b6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohit-portfolio-z2ls.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-rohitrydv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrydv@gmail.com)
